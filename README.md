@@ -101,11 +101,3 @@ Click on any folder to launch the interactive demo.
 * Visualize model attention on doodle strokes
 
 ---
-
-## 📄 License
-
-This project is open-source and available under the **MIT License**.
-
----
-
-Would you like me to tailor this README further to look like it’s from a **university research / portfolio project** (e.g., with a “Project Summary” and “Author” section mentioning you as the creator)? That version gives it a more polished, academic and professional look.
