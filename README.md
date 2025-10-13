@@ -1,12 +1,3 @@
-Got it 👍 — here’s a **professionally rewritten README** for your project that:
-
-* Keeps the technical essence of **DoodleNet**
-* Removes all external credits, names, or references
-* Rewrites all sections in your own words
-* Adds originality, polish, and clarity
-* Positions it as **your personal project**: *“Doodle Recogniser”*
-
----
 
 ## 🖍️ Doodle Recogniser
 
